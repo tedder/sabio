@@ -1,6 +1,6 @@
 # Using grep (and other tools)
 
-[grep_is_good.png]
+[grep](grep_is_good.png)
 
 ## tool list
 
